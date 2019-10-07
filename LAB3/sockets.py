@@ -8,4 +8,4 @@ def socket_create():
 	  global port
 	  global s
 	  host = ''
- 	  port = 999
+ 	  port = 9999
